@@ -1,0 +1,6 @@
+F:\……\CT_from_DICOM.nii.gz,
+F:\……\MR_resampled_to_CT.nii.gz,
+F:\……\MR_valid_mask_in_CT.nii.gz
+F:\……\CT_from_DICOM.nii.gz,
+F:\……\MR_resampled_to_CT.nii.gz,
+F:\……\MR_valid_mask_in_CT.nii.gz
